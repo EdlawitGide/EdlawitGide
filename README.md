@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤓, I'm Edlawit Gide</h1>
+<h1 align="center">Hi 😄, I'm Edlawit Gide</h1>
 <h3 align="center"> 𝐏𝐚𝐫𝐭-𝐓𝐢𝐦𝐞 𝐂𝐨𝐝𝐞 𝐍𝐢𝐧𝐣𝐚 & 𝐅𝐮𝐥𝐥-𝐓𝐢𝐦𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
 </h3>
 <h5 align="center">𝐂𝐈𝐓 '𝟐𝟔 @𝐌𝐍𝐒𝐔</h5>
