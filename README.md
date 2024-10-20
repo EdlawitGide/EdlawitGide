@@ -10,10 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=EdlawitGide&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdlawitGide&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/edlawit-gide/](https://www.linkedin.com/in/edlawitgide/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edlawit-gide/" height="30" width="40" /></a>
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
