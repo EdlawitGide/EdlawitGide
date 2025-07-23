@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=EdlawitGide&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edlawitgide)
 
 
 
