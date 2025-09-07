@@ -2,7 +2,7 @@
 
 🌱 Junior studying Computer Information Technology with a Minor in Financial Planning  
 
-🚀 Interested in Product Management, Software Engineering, and Data Analysis Roles
+🚀 Interested in Software Engineering, Product Management, and Data Analysis Roles
 
 👩🏽‍💻 Currently:  
   - Learning Android Development and Kotlin  
