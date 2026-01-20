@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Edlawit Gide 👩🏽‍💻</h1>
 
-🌱 Junior studying Computer Information Technology with a Minor in Financial Planning  
+🌱 Junior studying Computer Information Technology with a Minor in Business Administration
 
 🚀 Interested in Software Engineering, Product Management, and Data Analysis Roles
 
