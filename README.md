@@ -2,7 +2,7 @@
 
 🌱 Junior studying Computer Information Technology with a Minor in Business Administration.
 
-🚀 Interested in Software Engineering, Product Management, and Data Analysis Roles
+🚀 Interested in Software Engineering, Product Management, and Data & Business Analysis Roles
 
 👩🏽‍💻 Currently:  
   - Learning Android Development and Kotlin  
