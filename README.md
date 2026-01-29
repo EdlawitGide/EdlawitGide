@@ -1,12 +1,9 @@
-<h1 align="center">Hi! I'm Edlawit Gide 👩🏽‍💻</h1>
 
-<!-- Another gist variant -->
-<!-- Friendly "Welcome to my profile" GIF -->
-<!-- Another gist variant -->
 ![Welcome GIF](https://gist.githubusercontent.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f/raw/welcome-to-my-profile.gif)
 
+<h1 align="center">Hi! I'm Edlawit Gide 👩🏽‍💻</h1>
 
-🌱 Junior studying Computer Information Technology with a Minor in Business Administration.
+🌱 Senior Computer Information Technology major with a Minor in Business Administration.
 
 🚀 Interested in Software Engineering, Product Management, and Data & Business Analysis Roles
 
