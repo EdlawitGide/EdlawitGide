@@ -2,7 +2,8 @@
 
 <!-- Another gist variant -->
 <!-- Friendly "Welcome to my profile" GIF -->
-![Welcome to my profile](https://media.giphy.com/media/1oC7CPNUVTWG9b58ZU/giphy.gif)
+<!-- Another gist variant -->
+![Welcome GIF](https://gist.githubusercontent.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f/raw/welcome-to-my-profile.gif)
 
 
 🌱 Junior studying Computer Information Technology with a Minor in Business Administration.
