@@ -39,8 +39,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L3zn1ag0a2eyk/giphy.gif" alt="Contact Me Cute GIF" width="200"/>
+  <img src="https://pixabay.com/gifs/contact-us-contact-communication-804/" alt="Contact Me GIF" width="200"/>
 </p>
+
 
 
 ### Let's Connect!
