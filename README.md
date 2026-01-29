@@ -37,6 +37,12 @@
 ###  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EdlawitGide&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Let's Collaborate GIF" width="200"/>
+</p>
+
+
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edlawitgide)
 
