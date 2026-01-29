@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Edlawit Gide 👩🏽‍💻</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Welcome GIF" width="250"/>
-</p>
+<!-- Another gist variant -->
+![Welcome GIF](https://gist.githubusercontent.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f/raw/welcome-to-my-profile.gif)
+
 
 🌱 Junior studying Computer Information Technology with a Minor in Business Administration.
 
