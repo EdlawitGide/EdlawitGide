@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi! I'm Edlawit Gide 👩🏽‍💻</h1>
 
 <p align="center">
   <img src="https://gist.githubusercontent.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f/raw/welcome-to-my-profile.gif" alt="Welcome GIF" width="250"/>
