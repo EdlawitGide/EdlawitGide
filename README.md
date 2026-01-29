@@ -1,5 +1,9 @@
 <h1 align="center">Hi! I'm Edlawit Gide 👩🏽‍💻</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Welcome GIF" width="250"/>
+</p>
+
 🌱 Junior studying Computer Information Technology with a Minor in Business Administration.
 
 🚀 Interested in Software Engineering, Product Management, and Data & Business Analysis Roles
