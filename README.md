@@ -17,6 +17,7 @@
 
  
 🎯 Actively seeking internships to gain real-world experience and make an impact!
+📧 How to reach me: edlawit.gide@mnsu.edu, https://www.linkedin.com/in/edlawitgide/
 
 
 ###  Languages/Tools:
